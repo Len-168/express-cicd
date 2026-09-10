@@ -33,4 +33,5 @@ Then follow the Week 2 Day 3 lesson to add Prettier, a coverage threshold, a Doc
 - `Dockerfile` / `.dockerignore` for build verification
 - A rewritten `ci.yml` with parallel `lint`/`test` jobs, a `build` job, and a `quality-gate` job
 - Branch protection on `main` requiring all three jobs to pass
+
 # express-cicd
